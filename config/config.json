@@ -1,0 +1,19 @@
+{
+  "LoginPage": {
+    "url": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
+    "login_page_title": "OrangeHRM",
+    "user_name": "Admin",
+    "password": "admin123",
+    "invalid_user_name": "Admin123",
+    "invalid_password": "admin12345",
+    "login_failure_error_message": "Invalid credentials"
+  },
+  "HomePage": {
+    "url": "https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index"
+  },
+  "ResetPasswordPage": {
+    "url": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/requestPasswordResetCode",
+    "success_msg": "Reset Password link sent successfully"
+  }
+
+}
