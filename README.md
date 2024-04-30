@@ -9,3 +9,5 @@ Required Libraries:
 1. Selenium
 2. Pytest
 3. Json
+4. Pytest-html
+
